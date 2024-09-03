@@ -1,0 +1,16 @@
+body{
+  background-color: #c5d8e8;
+}
+h1 {
+ font-size: 25px;
+}
+form{
+  background-color: #c5d8e8; 
+}
+label {
+  display: auto;
+  margin-top: 2em;
+}
+input {
+  margin: 0.5em;
+}
