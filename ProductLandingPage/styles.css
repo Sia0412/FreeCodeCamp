@@ -1,0 +1,53 @@
+#html{
+  box-sizing: border-box; 
+}
+#header{
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+  font-family: raleway;
+  position: fixed;
+  top: 0px;
+}
+#header-img{
+     display: block;
+      max-width: 100%;
+      height: auto;
+      padding: 10px 10px 10px 10px;
+      margin: 0 auto;
+}
+#nav-bar{
+  text-align: center;
+  display:flex;
+  justify-item:center;
+}
+form{
+  text-align: center;
+}
+#Features{
+  padding: 10px 10px 10px 10px;
+}
+#How_it_is_made{
+ 
+      padding: 10px 10px 10px 10px;
+      text-align: center;
+}
+#Shop_all{
+  text-align: center;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+#About_us > header{
+font-weight: bold;
+font-size: 15px;
+}
+#About_us{
+  padding: 10px 10px 10px 10px;
+}
+.flex-item{
+  flex: 0 0 30%;
+    margin: 1px;
+}
+@media screen and (max-width: 600px){
+  
+}
